@@ -1,2 +1,2 @@
 # Budgety
-A JS application for budget calculation.
+A JS (ES 6) application for budget calculation.
